@@ -1,1 +1,1 @@
-## Countdon Timer for a Give Away
+## Countdown Timer for a Give Away
